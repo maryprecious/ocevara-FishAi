@@ -45,7 +45,7 @@ app.*.map.json
 /android/app/release
 
 # ─── Node.js / Backend ────────────────────────────────────────────
-Backend/node_modules/
+node_modules
 
 # NEVER commit .env — contains DB passwords, JWT secrets etc.
 Backend/.env
