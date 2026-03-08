@@ -48,7 +48,7 @@ app.*.map.json
 node_modules
 
 # NEVER commit .env — contains DB passwords, JWT secrets etc.
-Backend/.env
+.env
 .env
 
 # Gemini AI artifacts (local only)
